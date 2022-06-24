@@ -1,4 +1,4 @@
-Here solutions to https://ethernaut.openzeppelin.com with brownie and python scripts.
+Here solutions to https://ethernaut.openzeppelin.com with brownie(https://eth-brownie.readthedocs.io/en/stable/) and python scripts.
 
 
 Installation:
