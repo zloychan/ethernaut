@@ -1,14 +1,14 @@
 Here solutions to [Ethernaut](https://ethernaut.openzeppelin.com) with [brownie](https://eth-brownie.readthedocs.io/en/stable/) and python scripts.
 
 
-Installation:
+## Installation:
   1) Install [python](https://www.python.org) 3.9.5 or greater
   2) Install [Ganache](https://trufflesuite.com/ganache)
   3) Create venv `python -m venv venv`
   4) Activate venv `source venv/bin/activate`(Linux, MacOs) or `venv\Scripts\activate`(Windows)
   5) Install reqirements `pip intall -r requirements.txt`
   
-Run Scripts:
+## Run Scripts:<br>
   Example: re_entrancy
   1) `cd re_entrancy`
   2) `brownie run scripts/re_entrancy.py`
